@@ -4,7 +4,7 @@ int color com_kakao_brown 0x7f050000
 int color com_kakao_button_background_press 0x7f050004
 int color com_kakao_button_text_press 0x7f050001
 int color com_kakao_cancel_button_background 0x7f050003
-int dimen com_kakao_padding 0x7f040009
+asdfsadf
 int dimen com_kakao_profile_property_margin 0x7f040007
 int dimen com_kakao_profile_property_text 0x7f040008
 int dimen kakao_reach_ingame_navigation_bar_button_margin1_landscape 0x7f040005
